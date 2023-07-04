@@ -176,7 +176,7 @@ I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my h
 
 ### Utility System Commands
 
-Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
+Generate a standard new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
 
 ### First Aid System Commands
 
@@ -212,7 +212,7 @@ Start securelinking… with…, Stop securelinking… with…, Conduct securelin
 
 ### Setup System Commands
 
-... Setup... As A Waepoint?, ... Setup... As An Independent Lobby?, Change the segment of... For... To..., Add a segment… for…, Add a segment… for… on…, Cancel… segment(s)… moving… to…, Cancel… segment(s)…, Add a…, Point the system/lobby/segment to the … hub as the default..., Cancel the…, Set the access policy/policies..., Allow access to/on/for… for…, Restrict access to/on/for… for…, Set... ...’s protocol for..., Adjust... ...’s protocol for..., Cancel... ...’s protocol for..., Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…
+... Setup... As A Waepoint?, ... Setup... As An Independent Lobby?, Change the segment of... For... To..., Add a segment… for…, Add a segment… for… on…, Deprovision the… (group of the… )(segment’s)( or )(segments’)(segment(s))( group(s))…, Deprovision the… (group of the… )(segment’s)( or )(segments’)(segment(s))( group(s))…, Add a…, Point the system/lobby/segment to the … hub as the default..., Cancel the…, Set the access policy/policies..., Allow access to/on/for… for…, Restrict access to/on/for… for…, Set... ...’s protocol for..., Adjust... ...’s protocol for..., Cancel... ...’s protocol for..., Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…
 
 ### Administrative System Commands
 
@@ -220,7 +220,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ### Interfacing System Commands
 
-… Define a definition…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+Standard Converse…, Standard Describe…, Standard Define…, … Specifically…, … Alias… As…, …Dealias(ed) (all) (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 ### Module System Commands
 
