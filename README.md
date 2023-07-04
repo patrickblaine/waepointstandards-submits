@@ -18,7 +18,7 @@ Inheritance network endpoint -> waepoint, and endpoint -> independent system, an
 
 If you’ve opted out before, and want to opt back in say the following…
 
-> “I consent to the set of the provisions which are the set of the provisions which are of the files of the newest, each time there’s a newest, standardized Waepoint System Standards version, opt in to the Waepoint System Standards’s set of the provisions which are stacked on the endpoint, or the waepoints, in singular, or independent system, and, or, stacked system, I’m being in contact with, also opt in to the other sets of provisions I consented to which are listed in the quote here in reading the same quoted paragraph I am in the act of quoting which has the phrase set of the provisions, with a system command”
+> “I consent to the set of the provisions which are the set of the provisions which are of the files of the newest, each time there’s a newest set of the standardized same titled version with a higher version number than in those which are those consented to by me, in question, I’ll want to consent to, standardized Waepoint System Standards version, opt in to the Waepoint System Standards’s set of the provisions which are stacked on the endpoint, or the waepoints but like the one I am in contact with if I am doing so with one, or independent system, and, or, stacked system, I’m being in contact with, also opt in to the other sets of provisions I consented to which are listed in the quoted paragraph I’m reciting which is in the README.md of the associated git repository which I am reading from, I am in the act of quoting which has the phrase set of the provisions, with a system command”
 
 # Virtualized Effects
 
