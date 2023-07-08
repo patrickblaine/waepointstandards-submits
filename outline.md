@@ -24,15 +24,13 @@ Waepoint System Standards of the git branch the user has most recently described
 
 Auxiliary Notes
 
-Modules Of The System(s) On The User’s Device
+Modules Of The System(s) On The User’s Device(s), and, or, Software, and, or, Clustering Resources, Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
 
 Modules Of The Joined Compatible System(s) and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and Users of
 
-The Highest Priority Permitted For Module Added Material And Use Of Modules 
+The Highest Priority Permitted For Module Added Material And Use Of Modules
 
 The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and User(s) of
-
-Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
 
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
@@ -188,7 +186,7 @@ Generate a standard new name…, Deshelve…, ...Ask… … Where…/… Where�
 
 ### Declaring System Commands
 
-... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)... with effects…, … Cease the (specific) performance(s) of…/… Stop the (specific) performance(s) of… … system command(s)… (a time)…/… Cease the (specific) system command(s)…/… Stop the (specific) system command(s)…, … Cancel the (specific) performance(s) of the… system command(s)…/… Cancel the (specific) system command(s)… , ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … Unstack…, … Unstack… and leave…, … (Re)Effect..., … Stop effecting…, … Stop effecting and unstack..., … Stop effecting… and leave…, … Stop effecting and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
+... (Re)Focus..., (Re)Perform/(Re)Do/(Re)Start the system command(s)... with effects…, … Cease the (specific) performance(s) of…/… Stop the (specific) performance(s) of… … system command(s)… (a time)…/… Cease the (specific) system command(s)…/… Stop the (specific) system command(s)…, … Cancel the (specific) performance(s) of the… system command(s)…/… Cancel the (specific) system command(s)… , ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … Unstack…, … Unstack… and leave…, … (Re)Effect..., … Stop effecting…, … Stop effecting and unstack..., … Stop effecting… and leave…, … Stop effecting and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Sets System Commands
 
@@ -220,7 +218,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ### Interfacing System Commands
 
-Standard Transcribe…, Start Standard Transcribing…, Stop Standard Transcribing…, Standard Converse…, Standard Describe…, Standard Define… … Specifically…, … Alias… As…, …Dealias(ed) (all) (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+Standard Write To Inventory…, Standard Write To Inventory And Perform The System Commands…, Standard Transcribe…, Start Standard Transcribing…, Stop Standard Transcribing…, Standard Converse…, Standard Describe…, Standard Define… … Specifically…, … Alias… As…, …Dealias(ed) (all) (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 ### Module System Commands
 
