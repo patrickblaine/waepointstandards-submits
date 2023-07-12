@@ -118,7 +118,7 @@ Securelinking Instance
 
 ### System Conversation and System Conversation Categories
 
-Chatter, Commands, Comments, Imbuing, Provisions, Rules, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+Commands, Comments, Imbuing, Provisions, Rules, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 ### System Command Communication
 
@@ -126,7 +126,7 @@ System Command System Conversation Focus, System Command Name(s), System Command
 
 ### System Setup
 
-Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+Mission Log, Mission Description, Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 
 ### System Mappings
 
@@ -191,6 +191,10 @@ Generate a standard new name…, Deshelve…, ...Ask… … Where…/… Where�
 ### Sets System Commands
 
 Build a set/loadout with/from… called/named/as…, Build an empty set/loadout called/named/as…, Save… as a set/loadout called/named/as…, Add the phrase/phrases… to the set/loadout named/called…, Add the phrase/phrases…, Add that to the set/loadout…, Add that to the set/loadout named/called…, Remove the phrase/phrases… from the set/loadout named/called…, Remove the phrase/phrases…, Remove that from the set/loadout…, Stack the … set/loadout…, Unstack the set/loadout…, Swap sets/loadouts for the … set/loadout…
+
+### Worker Mission System Commands
+
+(Re)Outline Worker Mission…, (Re)Set… Worker Objective…, Update Primary Worker Objective…, (Re)Set… Worker Marker…, Assign Worker Mission…, Worker Mission Success…, Assign Worker Objective…, Generalize Worker Objective…, Release... (The...) (Set Of...) Worker Objective…,  Worker Mission Abort…, Worker Objective Complete/Complete Worker Objective…, Show… Worker (Marker…), Navigate… Worker (Marker…), Autocomplete… (Set Of) Worker Objective(s), Check... Worker Mission Progress…,... Worker Group Welfare Check...
 
 ### Lobby-Bound System Commands
 
