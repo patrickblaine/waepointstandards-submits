@@ -1,5 +1,16 @@
 # Detailed Outline Pertaining To The Waepoint System Standards Document
 
+## Document Formatting Key
+
+# Primary Set Of Provisions Name
+## Secondary Set Of Provisions Name
+### Tertiary Set Of Provisions
+``1. Document Section Title [Link Title](Link)``
+``* Document Subsection Title``
+**Provision Name, Definition Title, System Command Name, System Command Gesture Title**,
+Provision, Definition, System Command Description
+> Provisions About Sets Of Provisions
+
 ## Detailed Outline of the Waepoint System Standards
 
 ### System Conversation and System Setup Priorities Hierarchy
@@ -126,7 +137,7 @@ System Command System Conversation Focus, System Command Name(s), System Command
 
 ### System Setup
 
-Worker Mission Log, Worker Mission Description, Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+Worker Mission Log, Worker Mission Description, Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Instances, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 
 ### System Mappings
 
